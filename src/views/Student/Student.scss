@@ -1,0 +1,18 @@
+.student-container {
+  .search-container {
+    margin-bottom: 10px;
+    > * {
+      margin-right: 5px;
+    }
+  }
+  .btn-create-container {
+    width: 100%;
+    text-align: right;
+    margin-bottom: 10px;
+  }
+}
+.error {
+  color: red;
+  margin: 0;
+  font-size: 0.8rem;
+}
